@@ -1,0 +1,315 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>			 <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>				 <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>				 <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <title>大连拓展训练俱乐部-野外拓展|亲子活动|企业培训|Outward Bound</title>
+    <meta name="viewport" content="width=1200">
+    <link type="text/css" rel="stylesheet" href="http://fast.fonts.com/cssapi/00d960a4-98af-49b2-840c-effd9ed5bbc9.css"/>
+    <link rel="Shortcut Icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="/assets/css/app.css">
+    <script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js'></script>
+    <script>window.jQuery || document.write('<script src="http://outwardboundcalifornia.org/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+    <script type='text/javascript' src='/assets/js/vendor/modernizr-2.6.2.min.js'></script>
+    <link rel="canonical" href="http://outwardboundcalifornia.org/">
+
+    <link rel="alternate" type="application/rss+xml" title="Outward Bound California Feed" href="http://outwardboundcalifornia.org/feed/">
+</head>
+<body class="home page">
+<div class="main_wrap clearfix">
+    <div class="pull-left promomsg">
+        <a class="brand pull-left" href="http://outwardboundcalifornia.org/connect/events/city-skyline-challenge-2014/">
+            <img src="http://outwardboundcalifornia.org/assets/obca-ote-promo-bug.png" />
+        </a>
+    </div>
+    <div class="pull-right obnetwork">
+        <ul class="inline">
+            <li>We are part of the national network of </li>
+            <li class="dropdown">
+                <a class="dropdown-toggle" data-toggle="dropdown" href="#">outward bound schools <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                    <li class="menu-outward-bound-national"><a href="http://www.outwardbound.org/">Outward Bound National</a></li>
+                    <li class="menu-alabama-outward-bound-school"><a href="http://www.alabamaoutwardboundschool.org/">Alabama Outward Bound School</a></li>
+                    <li class="menu-baltimore-chesapeake-bay-outward-bound-school"><a href="http://outwardboundbaltimore.org/">Baltimore Chesapeake Bay Outward Bound School</a></li>
+                    <li class="menu-colorado-outward-bound-school"><a href="http://www.cobs.org/">Colorado Outward Bound School</a></li>
+                    <li class="menu-hurricane-island-outward-bound-school"><a href="http://www.hiobs.org/">Hurricane Island Outward Bound School</a></li>
+                    <li class="menu-new-york-city-outward-bound"><a href="http://www.nycoutwardbound.org/">New York City Outward Bound</a></li>
+                    <li class="menu-north-carolina-outward-bound-school"><a href="http://www.ncobs.org/">North Carolina Outward Bound School</a></li>
+                    <li class="menu-northwest-outward-bound-school"><a href="http://www.nwobs.org/">Northwest Outward Bound School</a></li>
+                    <li class="menu-outward-bound-atlanta"><a href="http://www.obatlanta.org/">Outward Bound Atlanta</a></li>
+                    <li class="menu-outward-bound-omaha"><a href="http://www.outwardboundomaha.org/">Outward Bound Omaha</a></li>
+                    <li class="menu-philadelphia-outward-bound-school"><a href="http://outwardboundphiladelphia.org/">Philadelphia Outward Bound School</a></li>
+                    <li class="menu-thompson-island-outward-bound"><a href="http://www.thompsonisland.org/">Thompson Island Outward Bound</a></li>
+                    <li class="menu-voyageur-outward-bound-school"><a href="http://www.vobs.org/">Voyageur Outward Bound School</a></li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="main_wrap content_bg clearfix">
+    <header class="banner navbar navbar-static-top" role="banner">
+        <div class="container">
+            <nav class="clearfix" role="navigation">
+                <div class="nav-main">
+                    <ul id="menu-primary-navigation" class="nav"><li class="dropdown menu-discover"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="/discover/">拓展目录 <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li class="menu-our-locations"><a href="/discover/locations/">Our Locations</a></li>
+                            <li class="menu-our-programs"><a href="/discover/programs/">Our Programs</a></li>
+                            <li class="menu-our-crew"><a href="/discover/crew/">Our Crew</a></li>
+                            <li class="menu-find-a-course"><a href="/discover/courses/">Find a Course</a></li>
+                            <li class="menu-see-the-results"><a href="/discover/results/">See the Results</a></li>
+                        </ul>
+                    </li>
+                        <li class="dropdown menu-support"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="/support/">支持 <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li class="menu-donate"><a href="/support/give/">Donate</a></li>
+                                <li class="menu-other-ways-to-give"><a href="/support/gifts/">Other Ways to Give</a></li>
+                                <li class="menu-gear-store"><a href="/support/gear-store/">Gear Store</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown menu-connect"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="/connect/">社交媒体 <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li class="menu-alumni"><a href="/alumni/">Alumni</a></li>
+                                <li class="menu-events"><a href="/connect/events/">Events</a></li>
+                                <li class="menu-blog"><a href="/connect/blog/">Blog</a></li>
+                                <li class="menu-facebook"><a target="_blank" href="https://www.facebook.com/OutwardBoundCA">Facebook</a></li>
+                                <li class="menu-twitter"><a target="_blank" href="https://twitter.com/OutwardBoundCA">Twitter</a></li>
+                                <li class="menu-linkedin"><a target="_blank" href="http://www.linkedin.com/company/3225570?trk=tyah">LinkedIn</a></li>
+                                <li class="menu-instagram"><a href="http://instagram.com/outwardboundcalifornia">Instagram</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown menu-about"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="/about/">关于我们 <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li class="menu-history"><a href="/about/history/">History</a></li>
+                                <li class="menu-approach"><a href="/about/approach/">Approach</a></li>
+                                <li class="menu-annual-report"><a href="/about/annual-report/">Annual Report</a></li>
+                                <li class="menu-board"><a href="/about/board/">Board</a></li>
+                                <li class="menu-jobs"><a href="/about/jobs/">Jobs</a></li>
+                                <li class="menu-videos"><a href="/videos/">Videos</a></li>
+                            </ul>
+                        </li>
+                    </ul>      </div>
+                <div class="nav-main-right pull-right">
+                    <ul class="nav">
+                        <li class="menu-contact"><a href="/contact/">联系我们</a></li>
+                        <li class="menu-faqs"><a href="/faqs/">FAQs</a></li>
+                        <li class="share_cont"><span class='st_sharethis' displayText='Share'></span></li>
+                    </ul>
+                </div>
+            </nav>
+            <div class="main_heading clearfix">
+                <a class="brand pull-left" href="http://outwardboundcalifornia.org/">
+                    <img src="http://outwardboundcalifornia.org/assets/logo1.png" />
+                </a>
+                <div class="pull-right">
+                    <a href="https://donatenow.networkforgood.org/OutwardBoundCA?code=Home%20Page" class="btn blue donate">预定课程</a>
+                    <a href="http://outwardboundcalifornia.org/discover/courses/" class="btn blue find_course">查找课程</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="wrap container" role="document">
+        <div class="content row">
+            <div class="main span12" role="main">
+                <div class="section_item main_slideshow clearfix">
+                    <div class="featured_frame"></div>
+                    <div id="featured_slide" class="carousel slide center span6 carousel-fade">
+                        <!-- Carousel items -->
+                        <div class="carousel-inner span6">
+                            <div class="active item" >
+                                <h1>Education</h1>
+                                <h2>for life</h2>
+                            </div>
+                            <div class="item" >
+                                <h1>Experience </h1>
+                                <h2>learning</h2>
+                            </div>
+                            <div class="item" >
+                                <h1>Leading</h1>
+                                <h2>the way</h2>
+                            </div>
+                        </div>
+                        <a href="#" class="btn blue next-section">Show Me More</a>
+                    </div>
+                    <img src="http://outwardboundcalifornia.org/assets/s4bn53-301_full13-1200x515.jpg" class="featured_bg">
+                </div>          <div class="section_item image_content_section media">
+                <img src="http://outwardboundcalifornia.org/assets/IMG_2985-428x300.jpg" class="pull-left border-texture">
+                <div class="media-body left">
+                    <h3>Abilities that last a lifetime</h3>
+                    <p>Outward Bound is the premier provider of experience-based outdoor leadership programs for youth and adults. Outward Bound courses change lives and give you the tools to see further, climb higher and find your way. Seek a challenge and embark on a wilderness backpacking trip, an urban exploration, or even take a mountaineering or rock climbing course, and bring home the courage to find your own path.</p>
+                    <!-- <a href="#" class="btn gray next-section">Keep Going</a> -->
+                </div>
+            </div>          <div class="section_item image_content_section media">
+                <img src="http://outwardboundcalifornia.org/assets/IMG_2582-428x300.jpg" class="pull-right border-texture">
+                <div class="media-body right">
+                    <h3>The value of the experience</h3>
+                    <p>We believe that physically and mentally challenging experiences, when facilitated by trained professionals in a safe and supportive environment, can help students discover and develop their strength of character, ability to lead and desire to serve.</p>
+                    <!-- <a href="#" class="btn gray next-section">Keep Going</a> -->
+                </div>
+            </div>          <div class="section_item image_content_section media">
+                <img src="http://outwardboundcalifornia.org/assets/Urban-Plunge-2.29-Fuenticilla-Heller-018-428x300.jpg" class="pull-left border-texture">
+                <div class="media-body left">
+                    <h3>Serving our community</h3>
+                    <p>Our skilled and compassionate instructors lead year-round programs in public schools and in partnership with other youth-serving nonprofits. Students expand their notions of what is possible, translate challenging life experiences into positive personal achievement and emerge as confident and empathetic leaders.</p>
+                    <!-- <a href="#" class="btn gray next-section">Keep Going</a> -->
+                </div>
+            </div>					<div class="section_item featured_image image_single clearfix">
+                <div class="featured_frame"></div>
+                <div class="pull-left image_content">
+                    <h3><span style="color: inherit; font-family: inherit; font-size: 24.5px;">Our instructors make us great</span></h3>
+                    <p>Outward Bound instructors enhance and inspire leadership, self-esteem, self-reliance, concern for others, service to the community, and care for the environment. Our mission is carried out through challenging experiences that are safely structured by our instructors. Oh, they are fun too!</p>
+                    <br />
+                    <a href="#" class="btn gray next-section">Keep Going</a>
+                </div>
+                <img src="http://outwardboundcalifornia.org/assets/IMG_3355-1200x515.jpg" alt="" class="featured_bg">
+            </div>          <div class="section_item image_content_section media">
+                <img src="http://outwardboundcalifornia.org/assets/IMG_0271-428x300.jpg" class="pull-left border-texture">
+                <div class="media-body left">
+                    <h3>Find out who you truly are</h3>
+                    <p>Outward Bound outdoor experiences challenge you to be a leader, an individual and an innovator. You will develop a sense of community, build character, and discover what it means to go beyond. Outward Bound education experiences inspire new potential and expand horizons.  Our innovative courses will let you see that you can achieve more than you ever thought possible.</p>
+                    <!-- <a href="#" class="btn gray next-section">Keep Going</a> -->
+                </div>
+            </div>							<div class="row column_blocks">
+                <div class="span4">
+                    <img src="http://outwardboundcalifornia.org/assets/block_1.png" class="aligncenter" />
+                    <a class="btn gray" href="http://outwardboundcalifornia.org/discover/locations/">See Our Locations</a>
+                </div>
+                <div class="span4">
+                    <img src="http://outwardboundcalifornia.org/assets/block_2.png" class="aligncenter" />
+                    <a class="btn gray" href="http://outwardboundcalifornia.org/discover/crew/">Meet Our Crew</a>
+                </div>
+                <div class="span4">
+                    <img src="http://outwardboundcalifornia.org/assets/block_3.png" class="aligncenter" />
+                    <a class="btn gray" href="http://outwardboundcalifornia.org/discover/programs/">View our programs</a>
+                </div>
+            </div>
+            </div><!-- /.main -->
+        </div><!-- /.content -->
+    </div><!-- /.wrap -->
+</div><!-- /.main_wrap -->
+
+<div class="main_wrap clearfix">
+    <footer class="content-info" role="contentinfo">
+        <div class="container">
+            <div class="footer_sidebar">
+                <div class="clearfix">
+                    <section class="widget-1 widget-first widget nav_menu-2 widget_nav_menu"><div class="widget-inner"><h5>Discover</h5><ul id="menu-discover" class="menu"><li class="menu-our-locations"><a href="/discover/locations/">Our Locations</a></li>
+                        <li class="menu-our-programs"><a href="/discover/programs/">Our Programs</a></li>
+                        <li class="menu-our-crew"><a href="/discover/crew/">Our Crew</a></li>
+                        <li class="menu-find-a-course"><a href="/discover/courses/">Find a Course</a></li>
+                        <li class="menu-see-the-results"><a href="/discover/results/">See the Results</a></li>
+                    </ul></div></section><section class="widget-2 widget nav_menu-3 widget_nav_menu"><div class="widget-inner"><h5>Support</h5><ul id="menu-support" class="menu"><li class="menu-donate"><a href="/support/give/">Donate</a></li>
+                    <li class="menu-other-ways-to-give"><a href="/support/gifts/">Other Ways to Give</a></li>
+                    <li class="menu-gear-store"><a href="/support/gear-store/">Gear Store</a></li>
+                </ul></div></section><section class="widget-3 widget nav_menu-4 widget_nav_menu"><div class="widget-inner"><h5>Connect</h5><ul id="menu-connect" class="menu"><li class="menu-alumni"><a href="/alumni/">Alumni</a></li>
+                    <li class="menu-events"><a href="/connect/events/">Events</a></li>
+                    <li class="menu-blog"><a href="/connect/blog/">Blog</a></li>
+                    <li class="menu-facebook"><a href="https://www.facebook.com/OutwardBoundCA">Facebook</a></li>
+                    <li class="menu-twitter"><a href="https://twitter.com/OutwardBoundCA">Twitter</a></li>
+                    <li class="menu-linkedin"><a href="http://www.linkedin.com/company/3225570?trk=companies_home_ycp_logo_outward-bound-california">LinkedIn</a></li>
+                    <li class="menu-instagram"><a href="http://instagram.com/outwardboundcalifornia">Instagram</a></li>
+                </ul></div></section><section class="widget-4 widget nav_menu-5 widget_nav_menu"><div class="widget-inner"><h5>About</h5><ul id="menu-about" class="menu"><li class="menu-history"><a href="/about/history/">History</a></li>
+                    <li class="menu-approach"><a href="/about/approach/">Approach</a></li>
+                    <li class="menu-annual-report"><a href="/about/annual-report/">Annual Report</a></li>
+                    <li class="menu-board"><a href="/about/board/">Board</a></li>
+                    <li class="menu-jobs"><a href="/about/jobs/">Jobs</a></li>
+                    <li class="menu-videos"><a href="/videos/">Videos</a></li>
+                </ul></div></section><section class="widget-5 widget-last widget nav_menu-6 widget_nav_menu"><div class="widget-inner"><h5>More</h5><ul id="menu-more" class="menu"><li class="menu-contact"><a href="/contact/">Contact</a></li>
+                    <li class="menu-faqs"><a href="/faqs/">FAQs</a></li>
+                    <li class="menu-privacy-policy"><a href="/privacy-policy/">Privacy Policy</a></li>
+                </ul></div></section>      </div>
+                <div class="row social_contact">
+                    <div class="span3"><p>Outward Bound California<br />
+                        1539 Pershing Drive<br />
+                        San Francisco, CA 94129</p>
+                    </div>
+                    <div class="span3"><p>Phone: (415) 933-6222<br />
+                        Fax: (866) 866-5936<br />
+                        Email: <a href="mailto:obca@outwardbound.org">obca@outwardbound.org</a></p>
+                    </div>
+                    <div class="span3">
+                        <ul class="inline">
+                            <li><a href="https://twitter.com/OutwardBoundCA" target="_blank"><img src="http://outwardboundcalifornia.org/assets/twitter1.png"></a></li>
+                            <li><a href="https://www.facebook.com/OutwardBoundCA" target="_blank"><img src="http://outwardboundcalifornia.org/assets/facebook.png"></a></li>
+                            <li><a href="http://www.linkedin.com/company/3225570?trk=prof-exp-company-name" target="_blank"><img src="http://outwardboundcalifornia.org/assets/linkedin.png"></a></li>
+                        </ul>
+                    </div>
+                    <div class="span3">
+                        <div class="newsletter_title">
+                            <a href="#newsletter_modal" data-toggle="modal">Newsletter signup</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="copyright">&copy; 2013 Outward Bound California, All Rights Reserved - Designed & Built by      <a href="https://dotvita.com/" target="_blank"><img src="http://outwardboundcalifornia.org//assets/img/dotvita.png" alt="DotVita" /></a>
+            </div>
+        </div>
+    </footer>
+    <!-- Button to trigger modal -->
+
+
+    <!-- Newsletter Modal -->
+    <div id="newsletter_modal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="newsletterLabel" aria-hidden="true">
+        <div class="modal-header">
+            <h3 id="newsletterLabel">Newsletter</h3>
+        </div>
+        <div class="modal-body">
+            <div class='gf_browser_chrome gform_wrapper'>
+                <form method="post" action="http://oi.vresp.com?fid=3504dc5159" target="vr_optin_popup" onsubmit="window.open( 'http://www.verticalresponse.com', 'vr_optin_popup', 'scrollbars=yes,width=600,height=450' ); return true;">
+                    <div class='gform_body'>
+                        <ul id='gform_fields_1' class='gform_fields top_label description_below'>
+                            <li id='field_2_1' class='gfield'>
+                                <label class='gfield_label' for='input_2_1_3'>Name</label>
+                                <div class='ginput_complex ginput_container' id='input_2_1'>
+                                    <span id='input_2_1_3_container' class='ginput_left'><label for='first_name'>First</label><input type='text' name='first_name' id='input_2_1_3' value=''></span><span id='input_2_1_6_container' class='ginput_right'><label for='last_name'>Last</label><input type='text' name='last_name' id='input_2_1_6' value=''></span>
+                                    <div class='gf_clear gf_clear_complex'></div>
+                                </div>
+                            </li>
+                            <li id='field_1_2' class='gfield'>
+                                <label class='gfield_label' for='email_address'>Your Email Address</label>
+                                <div class='ginput_container'>
+                                    <input name='email_address' type='text' value='' class='medium'>
+                                </div>
+                            </li>
+                        </ul>
+                    </div><input type='submit' id='gform_submit_button_1' class='button gform_button' value='Subscribe' tabindex='5' style='position: relative; bottom: 0; right: 0;'>
+                </form>
+            </div>  </div>
+        <div class="modal-footer">
+            <h5><a href="#close" data-dismiss="modal" aria-hidden="true">Close Window</a></h5>
+        </div>
+    </div>
+    <script type='text/javascript' src='/wp-includes/js/jquery/ui/jquery.ui.effect.min.js?ver=1.10.3'></script>
+    <script type='text/javascript' src='/assets/js/plugins.js'></script>
+    <script type='text/javascript' src='/assets/js/main.js'></script>
+</div>
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "ur-971d64ae-75c3-b9d2-593f-19ff6420a937", onhover: false, doNotHash: true, doNotCopy: true, hashAddressBar: false});</script>
+<!-- Piwik -->
+<script type="text/javascript">
+    var _paq = _paq || [];
+    _paq.push(["trackPageView"]);
+    _paq.push(["enableLinkTracking"]);
+
+    (function() {
+        var u=(("https:" == document.location.protocol) ? "https" : "http") + "://slip.io/analytics/pw/";
+        _paq.push(["setTrackerUrl", u+"piwik.php"]);
+        _paq.push(["setSiteId", "28"]);
+        var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+        g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+    })();
+</script>
+<!-- End Piwik Code -->
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Database Caching 1/104 queries in 0.036 seconds using disk
+
+ Served from: outwardboundcalifornia.org @ 2013-12-02 13:37:55 by W3 Total Cache -->
