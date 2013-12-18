@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.hjs" afterPath="$PROJECT_DIR$/views/index.hjs" />
+    </list>
+    <ignored path="outwardbound.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387332107116" ignored="false" />
+    <file path="E:/crawler-node/.idea/workspace.xml" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387181849774" ignored="false" />
+    <file path="/index.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387268348062" ignored="false" />
+    <file path="E:/ReUnionWeb-SVN/public/widgets/marketShareChart/index.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386147012320" ignored="false" />
+    <file path="E:/ReUnionWeb-SVN/routes/routes.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386141926207" ignored="false" />
+    <file path="/routes.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386226980985" ignored="false" />
+    <file path="E:/ReUnionWeb-SVN/routes/report.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387268428855" ignored="false" />
+    <file path="/report.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387262912481" ignored="false" />
+    <file path="E:/ReUnionWeb-SVN/models/mapping/PagesModel.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386141896939" ignored="false" />
+    <file path="E:/ReUnionWeb-SVN/libs/util.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386144729127" ignored="false" />
+    <file path="E:/ReUnionWeb-SVN/routes/tools/segment.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386148233384" ignored="false" />
+    <file path="E:/ReUnionWeb-SVN/public/themes/default/css/widget.css" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386213717751" ignored="false" />
+    <file path="/widget.css" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386213227411" ignored="false" />
+    <file path="/DashBoardMenu.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386213088637" ignored="false" />
+    <file path="E:/ReUnionWeb-SVN/public/partials/leftmenu/DashBoardMenu.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386213948592" ignored="false" />
+    <file path="E:/ReUnionWeb-SVN/public/js/controllers/product.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386213864301" ignored="false" />
+    <file path="E:/ReUnionWeb-SVN/public/themes/default/css/template.css" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386214188394" ignored="false" />
+    <file path="E:/ReUnionWeb-Product/app.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386225559381" ignored="false" />
+    <file path="E:/ReUnionWeb-Product/public/js/controllers/layout.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386226285790" ignored="false" />
+    <file path="E:/ReUnionWeb-Product/public/js/routes.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386227002473" ignored="false" />
+    <file path="E:/ReUnionWeb-Product/public/themes/default/css/template.css" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386225941333" ignored="false" />
+    <file path="/layout.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386742057489" ignored="false" />
+    <file path="/productdetail.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386300259683" ignored="false" />
+    <file path="E:/ReUnionWeb-Product/public/js/controllers/productdetail.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386231979233" ignored="false" />
+    <file path="/product-detial.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386232473049" ignored="false" />
+    <file path="E:/ReUnionWeb-Product/public/partials/product-detial.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386227030161" ignored="false" />
+    <file path="E:/ReUnionWeb-Product/public/js/controllers/product.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386227378943" ignored="false" />
+    <file path="/product.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386227337949" ignored="false" />
+    <file path="E:/ReUnionWeb-Product/public/partials/product.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386227430038" ignored="false" />
+    <file path="/product.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386227429530" ignored="false" />
+    <file path="E:/ReUnionWeb-Product/public/partials/product-detail.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386235173430" ignored="false" />
+    <file path="E:/ReUnionWeb-Product/public/themes/default/css/productdetail.css" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386235168882" ignored="false" />
+    <file path="E:/ReUnionWeb-Product/public/themes/default/default.css" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386227700000" ignored="false" />
+    <file path="/default.css" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386227700000" ignored="false" />
+    <file path="/productdetail.css" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386235092297" ignored="false" />
+    <file path="/product-detail.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386300601902" ignored="false" />
+    <file path="E:/ReunionWeb-Product/public/partials/product-detail.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386300639666" ignored="false" />
+    <file path="E:/ReunionWeb-Product/models/mapping/FeedsShopModel.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386297592901" ignored="false" />
+    <file path="/FeedsShopModel.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386297592901" ignored="false" />
+    <file path="E:/ReunionWeb-Product/public/partials/product.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386298730365" ignored="false" />
+    <file path="E:/ReunionWeb-Product/public/js/controllers/productdetail.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386300259683" ignored="false" />
+    <file path="E:/ReunionWeb-Product/app.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386645454979" ignored="false" />
+    <file path="E:/ReunionWeb-Product/public/js/controllers/dashboard.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386320820955" ignored="false" />
+    <file path="/app.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386815858097" ignored="false" />
+    <file path="E:/ReunionWeb-Product/routes/routes.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386644116625" ignored="false" />
+    <file path="E:/ReunionWeb-Product/public/widgets/marketShareChart/index.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386577283242" ignored="false" />
+    <file path="/a.dummy" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386750493358" ignored="false" />
+    <file path="E:/ReunionWeb-Product/views/index_new.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386741204268" ignored="false" />
+    <file path="/index_new.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386741175749" ignored="false" />
+    <file path="E:/ReunionWeb-Product/public/js/controllers/layout.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386742080924" ignored="false" />
+    <file path="E:/reunionwordpress/wordpress/wp-content/themes/reunion/index.php" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386754498623" ignored="false" />
+    <file path="/index.php" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386754389271" ignored="false" />
+    <file path="E:/crawler-node/views/index.ejs" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387179494775" ignored="false" />
+    <file path="/index.ejs" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387179481008" ignored="false" />
+    <file path="E:/crawler-node/public/js/app.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386815863076" ignored="false" />
+    <file path="E:/car/car_net/car/car/css/index.css" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387159012697" ignored="false" />
+    <file path="E:/car/car_net/car/car/bin/System.Web.Mvc.xml" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387159148617" ignored="false" />
+    <file path="E:/car/car_net/car/car/bin/System.Web.WebPages.Razor.xml" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387159148617" ignored="false" />
+    <file path="E:/car/car_net/car/Redf.Business.WebService/bin/Newtonsoft.Json.Net20.xml" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387159148617" ignored="false" />
+    <file path="E:/car/car_net/car/car/bin/EntityFramework.xml" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387159148617" ignored="false" />
+    <file path="E:/car/car_net/car/car/bin/Newtonsoft.Json.Net20.xml" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387159148617" ignored="false" />
+    <file path="E:/car/car_net/car/car/bin/System.Web.WebPages.Deployment.xml" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387159148617" ignored="false" />
+    <file path="E:/car/car_net/car/car/bin/System.Web.WebPages.xml" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387159148617" ignored="false" />
+    <file path="E:/car/car_net/car/car/bin/System.Web.Razor.xml" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387159148617" ignored="false" />
+    <file path="E:/car/car_net/car/car/bin/System.Web.Helpers.xml" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387159148617" ignored="false" />
+    <file path="/index.hjs" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387332989522" ignored="false" />
+    <file path="E:/crawler-node/test.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387186077010" ignored="false" />
+    <file path="/test.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387186072412" ignored="false" />
+    <file path="/index.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387175351580" ignored="false" />
+    <file path="E:/crawler-node/routes/index.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387175566772" ignored="false" />
+    <file path="E:/crawler-node/public/js/messenger.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387187824390" ignored="false" />
+    <file path="/messenger.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387187814399" ignored="false" />
+    <file path="E:/ReUnionWeb-SVN/routes/tools/common.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387262657538" ignored="false" />
+    <file path="/common.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387262649106" ignored="false" />
+    <file path="E:/ReUnionWeb-SVN/routes/tools/commonUtil.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387264965337" ignored="false" />
+    <file path="E:/ReUnionWeb-SVN/routes/feeds.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387269625748" ignored="false" />
+    <file path="/feeds.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387263234197" ignored="false" />
+    <file path="/commonUtil.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387264759761" ignored="false" />
+    <file path="E:/ReUnionWeb-SVN/public/widgets/representativeArticles/dashboard.css" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387268232287" ignored="false" />
+    <file path="E:/ReUnionWeb-SVN/public/widgets/representativeArticles/index.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387268348512" ignored="false" />
+    <file path="E:/ReUnionWeb-SVN/public/themes/default/css/dashboard.css" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387267094589" ignored="false" />
+    <file path="/dashboard.css" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387268232287" ignored="false" />
+    <file path="E:/ReUnionWeb-SVN/public/js/controllers/feeds.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387269614495" ignored="false" />
+    <file path="E:/ReUnionWeb-SVN/ReportTemplate/defaultTemplate.tmp" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387270368179" ignored="false" />
+    <file path="/customer-analysis.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387271293126" ignored="false" />
+    <file path="E:/ReUnionWeb-SVN/public/partials/charts/customer-analysis.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387271308582" ignored="false" />
+    <file path="E:/ReUnionWeb-SVN/public/partials/charts/representativeArticles-analysis.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387271583203" ignored="false" />
+    <file path="/representativeArticles-analysis.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387271555462" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="outwardbound" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="40" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.hjs" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/index.hjs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="12" selection-start="1611" selection-end="1611" vertical-scroll-proportion="-3.9433963">
+              <folding>
+                <element signature="n#style#0;n#span#0;n#h3#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/routes/user.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="15" selection-start="107" selection-end="107" vertical-scroll-proportion="0.29753914">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/views/index.hjs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1432" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="916" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app.js" />
+    <property name="restartRequiresConfirmation" value="true" />
+  </component>
+  <component name="RunManager" selected="Node.js.app.js">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="false" name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
+      <RunnerSettings RunnerId="NodeJS.debug" />
+      <ConfigurationWrapper RunnerId="NodeJS.debug" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.app.js" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" name="Default" comment="" />
+      <created>1386137191052</created>
+      <updated>1386137191052</updated>
+    </task>
+    <task id="LOCAL-00001" summary="miaoz">
+      <created>1387187984135</created>
+      <updated>1387187984135</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1432" y="-8" width="1456" height="916" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24770643" sideWeight="0.6231884" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3768116" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="miaoz" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="miaoz" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.hjs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="129" column="34" selection-start="9276" selection-end="9311" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#style#0;n#span#0;n#h3#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.hjs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="139" selection-start="2685" selection-end="2685" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#style#0;n#span#0;n#h3#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="40" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.hjs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="12" selection-start="1611" selection-end="1611" vertical-scroll-proportion="-3.9433963">
+          <folding>
+            <element signature="n#style#0;n#span#0;n#h3#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="15" selection-start="107" selection-end="107" vertical-scroll-proportion="0.29753914">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
