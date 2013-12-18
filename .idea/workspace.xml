@@ -2,35 +2,101 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/public/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/views/_layout.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/node_modules/partial.js/builders.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/config-debug" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/config-release" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/debugging.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/public/css/default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/controllers/default.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/public/js/default.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/views/homepage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/node_modules/partial.js/image.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/node_modules/partial.js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/node_modules/partial.js/internal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/node_modules/partial.js/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/node_modules/partial.js/mail.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/node_modules/partial.js/nosql.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/node_modules/partial.js/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/node_modules/.bin/partial.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/node_modules/partial.js/bin/partial" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/node_modules/partial.js/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/public/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/node_modules/partial.js/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/versions" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/IMG_0271-428x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/img/IMG_0271-428x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/IMG_2582-428x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/img/IMG_2582-428x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/IMG_2985-428x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/img/IMG_2985-428x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/IMG_3355-1200x515.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/img/IMG_3355-1200x515.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/Urban-Plunge-2.29-Fuenticilla-Heller-018-428x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/img/Urban-Plunge-2.29-Fuenticilla-Heller-018-428x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/block_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/img/block_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/block_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/img/block_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/block_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/img/block_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/img/btnbluepatt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/img/btnbluepatt2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/img/btngraypatt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/img/btngraypatt2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/img/check-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/img/content_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/img/dotvita.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/img/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/img/image-container-edge-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/linkedin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/img/linkedin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/logo1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/img/logo1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/img/main_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/img/newsletter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/obca-ote-promo-bug.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/img/obca-ote-promo-bug.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/s4bn53-301_full13-1200x515.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/img/s4bn53-301_full13-1200x515.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/img/share.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/img/slider_frame.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/twitter1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/img/twitter1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/logs/2013-12-18.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/views/_layout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/css/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/tmp/assets-css-app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/tmp/assets-js-main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/tmp/assets-js-plugins.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/templates/blogs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/config-debug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/definitions/database.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/controllers/default.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/views/detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/contents/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/contents/header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/views/homepage-copy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/views/homepage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/definitions/inject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/js/vendor/jquery-1.10.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/js/jquery/ui/jquery.ui.effect.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/js/vendor/modernizr-2.6.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/public/assets/js/plugins.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial/templates/sitemap.html" />
+      <change type="DELETED" beforePath="D:\work\outwardbound1\partialjsVersion\config-debug" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\outwardbound1\partialjsVersion\config-release" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\outwardbound1\partialjsVersion\controllers\default.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\outwardbound1\partialjsVersion\debugging.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\outwardbound1\partialjsVersion\index.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\outwardbound1\partialjsVersion\node_modules\.bin\partial.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\outwardbound1\partialjsVersion\node_modules\partial.js\bin\partial" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\outwardbound1\partialjsVersion\node_modules\partial.js\builders.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\outwardbound1\partialjsVersion\node_modules\partial.js\image.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\outwardbound1\partialjsVersion\node_modules\partial.js\index.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\outwardbound1\partialjsVersion\node_modules\partial.js\internal.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\outwardbound1\partialjsVersion\node_modules\partial.js\license.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\outwardbound1\partialjsVersion\node_modules\partial.js\mail.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\outwardbound1\partialjsVersion\node_modules\partial.js\nosql.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\outwardbound1\partialjsVersion\node_modules\partial.js\package.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\outwardbound1\partialjsVersion\node_modules\partial.js\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\outwardbound1\partialjsVersion\node_modules\partial.js\utils.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\outwardbound1\partialjsVersion\public\css\default.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\outwardbound1\partialjsVersion\public\favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\outwardbound1\partialjsVersion\public\js\default.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\outwardbound1\partialjsVersion\public\robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\outwardbound1\partialjsVersion\versions" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\outwardbound1\partialjsVersion\views\_layout.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\work\outwardbound1\partialjsVersion\views\homepage.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.hjs" afterPath="$PROJECT_DIR$/views/index.hjs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="D:\work\outwardbound1\partialjsVersion\debugging.js" afterPath="$PROJECT_DIR$/tutorial/debugging.js" />
+      <change type="MOVED" beforePath="D:\work\outwardbound1\partialjsVersion\index.js" afterPath="$PROJECT_DIR$/tutorial/index.js" />
     </list>
     <ignored path="outwardbound.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387341167073" ignored="false" />
+    <file path="/Dummy.txt" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387371254459" ignored="false" />
     <file path="E:/crawler-node/.idea/workspace.xml" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387181849774" ignored="false" />
     <file path="/index.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387268348062" ignored="false" />
     <file path="E:/ReUnionWeb-SVN/public/widgets/marketShareChart/index.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386147012320" ignored="false" />
@@ -98,7 +164,7 @@
     <file path="/index.hjs" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387341159047" ignored="false" />
     <file path="E:/crawler-node/test.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387186077010" ignored="false" />
     <file path="/test.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387186072412" ignored="false" />
-    <file path="/index.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387175351580" ignored="false" />
+    <file path="/index.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387376109061" ignored="false" />
     <file path="E:/crawler-node/routes/index.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387175566772" ignored="false" />
     <file path="E:/crawler-node/public/js/messenger.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387187824390" ignored="false" />
     <file path="/messenger.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387187814399" ignored="false" />
@@ -119,6 +185,10 @@
     <file path="E:/ReUnionWeb-SVN/public/partials/charts/representativeArticles-analysis.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387271583203" ignored="false" />
     <file path="/representativeArticles-analysis.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387271555462" ignored="false" />
     <file path="/Procfile" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387334878654" ignored="false" />
+    <file path="/default.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387374506086" ignored="false" />
+    <file path="/homepage.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387375357536" ignored="false" />
+    <file path="/config-debug" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387375576587" ignored="false" />
+    <file path="/_layout.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387376530138" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +207,106 @@
     <favorites_list name="outwardbound" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="homepage.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tutorial/views/homepage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="8" selection-start="138" selection-end="138" vertical-scroll-proportion="-2.0357144">
+              <folding>
+                <element signature="n#style#0;n#span#0;n#h3#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inject.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tutorial/definitions/inject.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="19" selection-start="111" selection-end="111" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tutorial/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="70" selection-start="235" selection-end="235" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_layout.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tutorial/views/_layout.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="207" column="128" selection-start="14328" selection-end="14328" vertical-scroll-proportion="-6.5471697">
+              <folding>
+                <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="assets-css-app.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tutorial/tmp/assets-css-app.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="assets-js-main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tutorial/tmp/assets-js-main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="debugging.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tutorial/debugging.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tutorial/public/assets/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="173" column="41" selection-start="5928" selection-end="5928" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tutorial/controllers/default.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="4" selection-start="183" selection-end="183" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tutorial/definitions/database.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -155,20 +324,30 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/public/assets/js/plugins.js" />
         <option value="$PROJECT_DIR$/README" />
-        <option value="$PROJECT_DIR$/views/index.hjs" />
         <option value="$PROJECT_DIR$/partialjsVersion/index.js" />
+        <option value="$PROJECT_DIR$/tutorial/config-debug.js" />
+        <option value="$PROJECT_DIR$/tutorial/definitions/inject.js" />
+        <option value="$PROJECT_DIR$/tutorial/controllers/default.js" />
+        <option value="$PROJECT_DIR$/tutorial/config-debug" />
+        <option value="$PROJECT_DIR$/tutorial/contents/footer.html" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/tutorial/contents/header.html" />
+        <option value="$PROJECT_DIR$/tutorial/views/homepage.html" />
+        <option value="$PROJECT_DIR$/tutorial/index.js" />
+        <option value="$PROJECT_DIR$/views/index.hjs" />
+        <option value="$PROJECT_DIR$/tutorial/public/assets/js/vendor/jquery-1.10.2.min.js" />
+        <option value="$PROJECT_DIR$/tutorial/public/assets/js/main.js" />
+        <option value="$PROJECT_DIR$/tutorial/views/_layout.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1432" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1456" />
-    <option name="height" value="916" />
+    <option name="width" value="1616" />
+    <option name="height" value="886" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -196,7 +375,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -211,7 +389,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="outwardbound" />
+              <option name="myItemId" value="outwardbound1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -221,25 +399,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="outwardbound" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="partialjsVersion" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="outwardbound" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="outwardbound" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="partialjsVersion" />
+              <option name="myItemId" value="outwardbound1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -253,11 +413,297 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="outwardbound" />
+              <option name="myItemId" value="outwardbound1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="partialjsVersion" />
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tmp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jquery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="logs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="definitions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -265,17 +711,61 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="contents" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/partialjsVersion/index.js" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tutorial/index.js" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
-  <component name="RunManager" selected="Node.js.index.js">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\outwardbound1\tutorial\public\assets\js" />
+      <recent name="D:\work\outwardbound1\tutorial\views" />
+      <recent name="D:\work\outwardbound1\tutorial\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\work\outwardbound1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.app.js">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -287,13 +777,19 @@
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
-    <configuration default="false" name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="partialjsVersion/index.js" working-dir="$PROJECT_DIR$">
+    <configuration default="false" name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="tutorial/index.js" working-dir="$PROJECT_DIR$">
       <RunnerSettings RunnerId="NodeJS.debug" />
       <ConfigurationWrapper RunnerId="NodeJS.debug" />
       <method />
     </configuration>
-    <list size="1">
+    <configuration default="false" name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
+      <RunnerSettings RunnerId="NodeJS.debug" />
+      <ConfigurationWrapper RunnerId="NodeJS.debug" />
+      <method />
+    </configuration>
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Node.js.index.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.app.js" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -343,15 +839,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1432" y="-8" width="1456" height="916" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24770643" sideWeight="0.62219286" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37780714" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2225745" sideWeight="0.6082759" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39172414" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -360,6 +855,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -391,7 +887,7 @@
     <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
     <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
-    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
     <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
     <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
     <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
@@ -424,127 +920,133 @@
     <MESSAGE value="miaoz" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/routes/user.js">
+    <entry file="file://$PROJECT_DIR$/tutorial/templates/sitemap.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="5" selection-start="107" selection-end="107" vertical-scroll-proportion="0.18194254">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile">
+    <entry file="file://$PROJECT_DIR$/tutorial/definitions/database.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="23" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/js/main.js">
+    <entry file="file://$PROJECT_DIR$/tutorial/controllers/default.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="22" selection-start="2219" selection-end="2219" vertical-scroll-proportion="0.33286119">
+        <state line="8" column="4" selection-start="183" selection-end="183" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/logs/2013-12-18.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/config-debug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="25" selection-start="687" selection-end="704" vertical-scroll-proportion="0.38108882">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/public/assets/js/jquery/ui/jquery.ui.effect.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/views/homepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="8" selection-start="138" selection-end="138" vertical-scroll-proportion="-2.0357144">
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#h3#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README">
+    <entry file="file://$PROJECT_DIR$/tutorial/public/assets/js/vendor/jquery-1.10.2.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="92" selection-start="946" selection-end="946" vertical-scroll-proportion="0.55013925">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/js/plugins.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="479" column="51" selection-start="28387" selection-end="28400" vertical-scroll-proportion="0.55013925">
+        <state line="5" column="28902" selection-start="93112" selection-end="93112" vertical-scroll-proportion="0.13868614">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/index.hjs">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="137" selection-start="1832" selection-end="1832" vertical-scroll-proportion="-11.471698">
+        <state line="14" column="108" selection-start="927" selection-end="929" vertical-scroll-proportion="-1.9502763">
           <folding>
+            <element signature="tag#div#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#span#0;n#h3#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="tag#div#2;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
+    <entry file="file://$PROJECT_DIR$/tutorial/public/assets/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="40" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partialjsVersion/config-release">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partialjsVersion/config-debug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partialjsVersion/node_modules/partial.js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="31" selection-start="33189" selection-end="33189" vertical-scroll-proportion="0.6481481">
+        <state line="173" column="41" selection-start="5928" selection-end="5928" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partialjsVersion/controllers/default.js">
+    <entry file="file://$PROJECT_DIR$/tutorial/definitions/inject.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="14" selection-start="151" selection-end="152" vertical-scroll-proportion="0.0">
+        <state line="2" column="19" selection-start="111" selection-end="111" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partialjsVersion/debugging.js">
+    <entry file="file://$PROJECT_DIR$/tutorial/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="55" vertical-scroll-proportion="0.0">
+        <state line="6" column="70" selection-start="235" selection-end="235" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/views/_layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="207" column="128" selection-start="14328" selection-end="14328" vertical-scroll-proportion="-6.5471697">
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partialjsVersion/versions">
+    <entry file="file://$PROJECT_DIR$/tutorial/tmp/assets-css-app.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partialjsVersion/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="16" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partialjsVersion/views/homepage.html">
+    <entry file="file://$PROJECT_DIR$/tutorial/tmp/assets-js-main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partialjsVersion/views/_layout.html">
+    <entry file="file://$PROJECT_DIR$/tutorial/debugging.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="48" selection-start="325" selection-end="325" vertical-scroll-proportion="0.4556355">
-          <folding />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
