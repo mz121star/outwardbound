@@ -2,11 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/public/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/views/_layout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/node_modules/partial.js/builders.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/config-debug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/config-release" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/debugging.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/public/css/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/controllers/default.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/public/js/default.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/views/homepage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/node_modules/partial.js/image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/node_modules/partial.js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/node_modules/partial.js/internal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/node_modules/partial.js/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/node_modules/partial.js/mail.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/node_modules/partial.js/nosql.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/node_modules/partial.js/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/node_modules/.bin/partial.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/node_modules/partial.js/bin/partial" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/node_modules/partial.js/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/public/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/node_modules/partial.js/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partialjsVersion/versions" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="outwardbound.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387336240859" ignored="false" />
+    <file path="/Dummy.txt" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387341167073" ignored="false" />
     <file path="E:/crawler-node/.idea/workspace.xml" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387181849774" ignored="false" />
     <file path="/index.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387268348062" ignored="false" />
     <file path="E:/ReUnionWeb-SVN/public/widgets/marketShareChart/index.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1386147012320" ignored="false" />
@@ -71,7 +95,7 @@
     <file path="E:/car/car_net/car/car/bin/System.Web.WebPages.xml" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387159148617" ignored="false" />
     <file path="E:/car/car_net/car/car/bin/System.Web.Razor.xml" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387159148617" ignored="false" />
     <file path="E:/car/car_net/car/car/bin/System.Web.Helpers.xml" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387159148617" ignored="false" />
-    <file path="/index.hjs" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387332989522" ignored="false" />
+    <file path="/index.hjs" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387341159047" ignored="false" />
     <file path="E:/crawler-node/test.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387186077010" ignored="false" />
     <file path="/test.html" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387186072412" ignored="false" />
     <file path="/index.js" changelist="bf6b18f5-0bf5-44a7-ba0c-bdbd4e7f8b42" time="1387175351580" ignored="false" />
@@ -113,56 +137,7 @@
     <favorites_list name="outwardbound" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="40" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.hjs" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/index.hjs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="12" selection-start="1611" selection-end="1611" vertical-scroll-proportion="-3.9433963">
-              <folding>
-                <element signature="n#style#0;n#span#0;n#h3#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="user.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/user.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="5" selection-start="107" selection-end="107" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Procfile" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Procfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="23" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -181,8 +156,11 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/views/index.hjs" />
         <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/public/assets/js/plugins.js" />
+        <option value="$PROJECT_DIR$/README" />
+        <option value="$PROJECT_DIR$/views/index.hjs" />
+        <option value="$PROJECT_DIR$/partialjsVersion/index.js" />
       </list>
     </option>
   </component>
@@ -247,6 +225,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="partialjsVersion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="outwardbound" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partialjsVersion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -261,7 +257,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="routes" />
+              <option name="myItemId" value="partialjsVersion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -272,10 +272,10 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/partialjsVersion/index.js" />
     <property name="restartRequiresConfirmation" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.app.js">
+  <component name="RunManager" selected="Node.js.index.js">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -287,13 +287,13 @@
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
-    <configuration default="false" name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
+    <configuration default="false" name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="partialjsVersion/index.js" working-dir="$PROJECT_DIR$">
       <RunnerSettings RunnerId="NodeJS.debug" />
       <ConfigurationWrapper RunnerId="NodeJS.debug" />
       <method />
     </configuration>
     <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.app.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.index.js" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -311,7 +311,35 @@
       <created>1387336243616</created>
       <updated>1387336243616</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="miaoz">
+      <created>1387336253352</created>
+      <updated>1387336253352</updated>
+    </task>
+    <task id="LOCAL-00004" summary="miaoz">
+      <created>1387337938186</created>
+      <updated>1387337938186</updated>
+    </task>
+    <task id="LOCAL-00005" summary="miaoz">
+      <created>1387340162304</created>
+      <updated>1387340162304</updated>
+    </task>
+    <task id="LOCAL-00006" summary="miaoz">
+      <created>1387340388403</created>
+      <updated>1387340388403</updated>
+    </task>
+    <task id="LOCAL-00007" summary="miaoz">
+      <created>1387340673794</created>
+      <updated>1387340673794</updated>
+    </task>
+    <task id="LOCAL-00008" summary="miaoz">
+      <created>1387341000458</created>
+      <updated>1387341000458</updated>
+    </task>
+    <task id="LOCAL-00009" summary="miaoz">
+      <created>1387341171120</created>
+      <updated>1387341171120</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -399,33 +427,46 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app.js">
+    <entry file="file://$PROJECT_DIR$/routes/user.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="7" column="5" selection-start="107" selection-end="107" vertical-scroll-proportion="0.18194254">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.hjs">
+    <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="129" column="34" selection-start="9276" selection-end="9311" vertical-scroll-proportion="0.0">
+        <state line="0" column="23" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="22" selection-start="2219" selection-end="2219" vertical-scroll-proportion="0.33286119">
           <folding>
-            <element signature="n#style#0;n#span#0;n#h3#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
+    <entry file="file://$PROJECT_DIR$/README">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="58" column="92" selection-start="946" selection-end="946" vertical-scroll-proportion="0.55013925">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/js/plugins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="479" column="51" selection-start="28387" selection-end="28400" vertical-scroll-proportion="0.55013925">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/index.hjs">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="139" selection-start="2685" selection-end="2685" vertical-scroll-proportion="0.0">
+        <state line="32" column="137" selection-start="1832" selection-end="1832" vertical-scroll-proportion="-11.471698">
           <folding>
             <element signature="n#style#0;n#span#0;n#h3#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -440,33 +481,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.hjs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="12" selection-start="1611" selection-end="1611" vertical-scroll-proportion="-3.9433963">
-          <folding>
-            <element signature="n#style#0;n#span#0;n#h3#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/index.js">
+    <entry file="file://$PROJECT_DIR$/partialjsVersion/config-release">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/user.js">
+    <entry file="file://$PROJECT_DIR$/partialjsVersion/config-debug">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="5" selection-start="107" selection-end="107" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile">
+    <entry file="file://$PROJECT_DIR$/partialjsVersion/node_modules/partial.js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="23" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0">
+        <state line="22" column="31" selection-start="33189" selection-end="33189" vertical-scroll-proportion="0.6481481">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partialjsVersion/controllers/default.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="14" selection-start="151" selection-end="152" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partialjsVersion/debugging.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="55" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partialjsVersion/versions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partialjsVersion/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="16" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partialjsVersion/views/homepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partialjsVersion/views/_layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="48" selection-start="325" selection-end="325" vertical-scroll-proportion="0.4556355">
           <folding />
         </state>
       </provider>
