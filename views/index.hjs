@@ -232,7 +232,9 @@
         </div>
     </footer>
     <!-- Button to trigger modal -->
-
+    <!-- JiaThis Button BEGIN -->
+    <script type="text/javascript" src="http://v3.jiathis.com/code/jiathis_r.js?uid=1372646076592328" charset="utf-8"></script>
+    <!-- JiaThis Button END -->
 
     <!-- Newsletter Modal -->
     <div id="newsletter_modal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="newsletterLabel" aria-hidden="true">
@@ -265,9 +267,7 @@
             <h5><a href="#close" data-dismiss="modal" aria-hidden="true">Close Window</a></h5>
         </div>
     </div>
-    <!-- JiaThis Button BEGIN -->
-    <script type="text/javascript" src="http://v3.jiathis.com/code/jiathis_r.js?uid=1372646076592328" charset="utf-8"></script>
-    <!-- JiaThis Button END -->
+
     <script type='text/javascript' src='/wp-includes/js/jquery/ui/jquery.ui.effect.min.js?ver=1.10.3'></script>
     <script type='text/javascript' src='/assets/js/plugins.js'></script>
     <script type='text/javascript' src='/assets/js/main.js'></script>
