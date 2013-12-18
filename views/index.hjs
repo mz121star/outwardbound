@@ -27,7 +27,18 @@
     </div>
     <div class="pull-right obnetwork">
         <ul class="inline">
-
+               <li><!-- JiaThis Button BEGIN -->
+                   <div class="jiathis_style_24x24">
+                       <a class="jiathis_button_qzone"></a>
+                       <a class="jiathis_button_tsina"></a>
+                       <a class="jiathis_button_tqq"></a>
+                       <a class="jiathis_button_weixin"></a>
+                       <a class="jiathis_button_renren"></a>
+                       <a href="http://www.jiathis.com/share" class="jiathis jiathis_txt jtico jtico_jiathis" target="_blank"></a>
+                       <a class="jiathis_counter_style"></a>
+                   </div>
+                   <script type="text/javascript" src="http://v3.jiathis.com/code/jia.js?uid=1372646076592328" charset="utf-8"></script>
+                   <!-- JiaThis Button END --></li>
         </ul>
     </div>
 </div>
@@ -232,9 +243,6 @@
         </div>
     </footer>
     <!-- Button to trigger modal -->
-    <!-- JiaThis Button BEGIN -->
-    <script type="text/javascript" src="http://v3.jiathis.com/code/jiathis_r.js?uid=1372646076592328" charset="utf-8"></script>
-    <!-- JiaThis Button END -->
 
     <!-- Newsletter Modal -->
     <div id="newsletter_modal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="newsletterLabel" aria-hidden="true">
