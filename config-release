@@ -53,7 +53,7 @@ default-request-timeout            : 3000
 allow-gzip                         : true
 
 // If you'll using Socket.io, set allow-websocket to false
-allow-websocket                    : true
+allow-websocket                    : false
 
 // enable/disable static compilation
 allow-compile-js                   : true
