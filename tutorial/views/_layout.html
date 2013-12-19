@@ -27,7 +27,7 @@
 <div class="main_wrap clearfix">
     <div class="pull-left promomsg">
         <a class="brand pull-left" href="http://outwardboundcalifornia.org/connect/events/city-skyline-challenge-2014/">
-            <img src="assets/obca-ote-promo-bug.png" />
+            <img src="/assets/obca-ote-promo-bug.png" />
         </a>
     </div>
     <div class="pull-right obnetwork">
@@ -52,44 +52,9 @@
         <div class="container">
             <nav class="clearfix" role="navigation">
                 <div class="nav-main">
-                    <ul id="menu-primary-navigation" class="nav"><li class="dropdown menu-discover"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="/discover/">拓展项目<b class="caret"></b></a>
-                        <ul class="dropdown-menu">
-                            <li class="menu-our-locations"><a href="/discover/locations/">企业拓展</a></li>
-                            <li class="menu-our-programs"><a href="/discover/programs/">青少年拓展</a></li>
-                            <li class="menu-our-crew"><a href="/discover/crew/">家庭拓展</a></li>
-                            <li class="menu-find-a-course"><a href="/discover/courses/">寻找课程</a></li>
+                    @{template('menus', global.db.menus, '', { lenght: global.db })}
 
-                        </ul>
-                    </li>
-                        <li class="dropdown menu-support"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="/support/">VIP定制 <b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                <li class="menu-donate"><a href="/support/give/">Donate</a></li>
-                                <li class="menu-other-ways-to-give"><a href="/support/gifts/">Other Ways to Give</a></li>
-                                <li class="menu-gear-store"><a href="/support/gear-store/">Gear Store</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown menu-connect"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="/connect/">金牌团队 <b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                <li class="menu-alumni"><a href="/alumni/">Alumni</a></li>
-                                <li class="menu-events"><a href="/connect/events/">Events</a></li>
-                                <li class="menu-blog"><a href="/connect/blog/">Blog</a></li>
-                                <li class="menu-facebook"><a target="_blank" href="https://www.facebook.com/OutwardBoundCA">Facebook</a></li>
-                                <li class="menu-twitter"><a target="_blank" href="https://twitter.com/OutwardBoundCA">Twitter</a></li>
-                                <li class="menu-linkedin"><a target="_blank" href="http://www.linkedin.com/company/3225570?trk=tyah">LinkedIn</a></li>
-                                <li class="menu-instagram"><a href="http://instagram.com/outwardboundcalifornia">Instagram</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown menu-about"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="/about/">成功案例 <b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                <li class="menu-history"><a href="/about/history/">History</a></li>
-                                <li class="menu-approach"><a href="/about/approach/">Approach</a></li>
-                                <li class="menu-annual-report"><a href="/about/annual-report/">Annual Report</a></li>
-                                <li class="menu-board"><a href="/about/board/">Board</a></li>
-                                <li class="menu-jobs"><a href="/about/jobs/">Jobs</a></li>
-                                <li class="menu-videos"><a href="/videos/">Videos</a></li>
-                            </ul>
-                        </li>
-                    </ul>      </div>
+                </div>
                 <div class="nav-main-right pull-right">
                     <ul class="nav">
                         <li class="menu-contact"><a href="/contact/">联系我们</a></li>
@@ -100,7 +65,7 @@
             </nav>
             <div class="main_heading clearfix">
                 <a class="brand pull-left" href="http://outwardboundcalifornia.org/">
-                    <img src="assets/logo1.png" />
+                    <img src="/assets/logo1.png" />
                 </a>
                 <div class="pull-right">
                     <a href="https://donatenow.networkforgood.org/OutwardBoundCA?code=Home%20Page" class="btn blue donate">预定课程</a>
@@ -154,9 +119,9 @@
                     </div>
                     <div class="span3">
                         <ul class="inline">
-                            <li><a href="https://twitter.com/OutwardBoundCA" target="_blank"><img src="assets/twitter1.png"></a></li>
-                            <li><a href="https://www.facebook.com/OutwardBoundCA" target="_blank"><img src="assets/facebook.png"></a></li>
-                            <li><a href="http://www.linkedin.com/company/3225570?trk=prof-exp-company-name" target="_blank"><img src="assets/linkedin.png"></a></li>
+                            <li><a href="https://twitter.com/OutwardBoundCA" target="_blank"><img src="/assets/twitter1.png"></a></li>
+                            <li><a href="https://www.facebook.com/OutwardBoundCA" target="_blank"><img src="/assets/facebook.png"></a></li>
+                            <li><a href="http://www.linkedin.com/company/3225570?trk=prof-exp-company-name" target="_blank"><img src="/assets/linkedin.png"></a></li>
                         </ul>
                     </div>
                     <div class="span3">

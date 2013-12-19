@@ -1,0 +1,59 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install' ]
+2 info using npm@1.1.69
+3 info using node@v0.8.16
+4 verbose node symlink C:\Program Files\nodejs\\node.exe
+5 verbose read json E:\outwardbound\tutorial\package.json
+6 warn package.json application-name@0.0.1 No README.md file found!
+7 verbose readDependencies using package.json deps
+8 verbose install where, deps [ 'E:\\outwardbound\\tutorial', [ 'partial' ] ]
+9 verbose from cache E:\outwardbound\tutorial\package.json
+10 info preinstall application-name@0.0.1
+11 verbose from cache E:\outwardbound\tutorial\package.json
+12 verbose readDependencies using package.json deps
+13 verbose cache add [ 'partial@last', null ]
+14 silly cache add name=undefined spec="partial@last" args=["partial@last",null]
+15 verbose parsed url { pathname: 'partial@last',
+15 verbose parsed url   path: 'partial@last',
+15 verbose parsed url   href: 'partial@last' }
+16 silly cache add name="partial" spec="last" args=["partial","last"]
+17 verbose parsed url { pathname: 'last', path: 'last', href: 'last' }
+18 verbose addNamed [ 'partial', 'last' ]
+19 verbose addNamed [ null, null ]
+20 silly lockFile 2c74ec54-partial-last partial@last
+21 verbose lock partial@last C:\Users\P0018766\AppData\Roaming\npm-cache\2c74ec54-partial-last.lock
+22 info addNameTag [ 'partial', 'last' ]
+23 verbose url raw partial
+24 verbose url resolving [ 'https://registry.npmjs.org/', './partial' ]
+25 verbose url resolved https://registry.npmjs.org/partial
+26 info trying registry request attempt 1 at 10:47:24
+27 verbose etag "2SNDCUTWANYZPQOUPSJ62TI8C"
+28 http GET https://registry.npmjs.org/partial
+29 http 304 https://registry.npmjs.org/partial
+30 silly registry.get cb [ 304,
+30 silly registry.get   { server: 'CouchDB/1.5.0 (Erlang OTP/R15B03)',
+30 silly registry.get     etag: '"2SNDCUTWANYZPQOUPSJ62TI8C"',
+30 silly registry.get     date: 'Thu, 19 Dec 2013 02:47:30 GMT',
+30 silly registry.get     'content-length': '0' } ]
+31 verbose etag partial from cache
+32 silly lockFile 2c74ec54-partial-last partial@last
+33 error Error: No compatible version found: partial@'last'
+33 error Valid install targets:
+33 error ["0.0.1","0.0.2","0.0.3"]
+33 error     at installTargetsError (C:\Program Files\nodejs\node_modules\npm\lib\cache.js:563:10)
+33 error     at C:\Program Files\nodejs\node_modules\npm\lib\cache.js:478:10
+33 error     at saved (C:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-client\lib\get.js:138:7)
+33 error     at C:\Program Files\nodejs\node_modules\npm\node_modules\graceful-fs\graceful-fs.js:218:7
+33 error     at Object.oncomplete (fs.js:297:15)
+34 error If you need help, you may report this log at:
+34 error     <http://github.com/isaacs/npm/issues>
+34 error or email it to:
+34 error     <npm-@googlegroups.com>
+35 error System Windows_NT 6.1.7601
+36 error command "C:\\Program Files\\nodejs\\\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install"
+37 error cwd E:\outwardbound\tutorial
+38 error node -v v0.8.16
+39 error npm -v 1.1.69
+40 verbose exit [ 1, true ]
